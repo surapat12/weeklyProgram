@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\iamsu\source\repos\WeeklyProgram2\WeeklyProgram2\Source.cpp(8,6): warning C4101: 'i': unreferenced local variable
+  LINK : C:\Users\iamsu\source\repos\WeeklyProgram2\Debug\WeeklyProgram2.exe not found or not built by the last incremental link; performing full link
+  WeeklyProgram2.vcxproj -> C:\Users\iamsu\source\repos\WeeklyProgram2\Debug\WeeklyProgram2.exe
